@@ -1,1 +1,1 @@
-[Demo video of splash screen](demo.webm)
+[Demo video of splash screen](demo.gif)
