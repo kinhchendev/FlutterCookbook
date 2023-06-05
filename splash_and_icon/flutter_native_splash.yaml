@@ -1,0 +1,12 @@
+# Run following command to generate splash_screen with config
+# dart run flutter_native_splash:create
+
+flutter_native_splash:
+  color: "#2979FF"
+  image: assets/images/transparent.png
+
+  android_12:
+    image: assets/images/transparent.png
+    icon_background_color: "#2979FF"
+
+  web: false
