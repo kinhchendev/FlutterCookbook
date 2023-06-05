@@ -1,1 +1,1 @@
-![Demo video of splash screen](demo.gif | height=320)
+![Demo video of splash screen](demo.gif | width=200)
